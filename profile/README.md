@@ -35,5 +35,3 @@ More projects will join as they are ready.
 - 💡 **Know a good AI tool for developers?** Suggest it in [Discussions](https://github.com/orgs/aidevx/discussions).
 - 🛠️ **Want to contribute?** Read the [contributing guide](https://github.com/aidevx/.github/blob/main/CONTRIBUTING.md).
 - ⭐ **Like the idea?** Star the projects and share them with your team.
-
-<sub>Started in Bangladesh 🇧🇩 · Built in the open</sub>
